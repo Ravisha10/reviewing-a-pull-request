@@ -1,4 +1,5 @@
 {
+  
   "name": "github-games",
   "repository": {
     "type": "git",
@@ -7,4 +8,5 @@
   "description": "Simple JS game",
   "author": "https://twitter.com/brianamarie",
   "version": "1.0.0"
+  
 }
